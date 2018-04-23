@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  SKZxing
+//
+//  Created by Foster on 16/10/12.
+//  Copyright © 2016年 Jiangshengkai. All rights reserved.
+//
+
+
+
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+
+
+#ifdef DEBUG
+//#define NSLog(...) {};
+#else
+#define NSLog(...) {};
+#endif
+
+
+#endif

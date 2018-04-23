@@ -1,0 +1,17 @@
+PODS:
+  - LBXAlertAction (1.0.3)
+  - ZXingObjC (3.1.0):
+    - ZXingObjC/All (= 3.1.0)
+  - ZXingObjC/All (3.1.0)
+
+DEPENDENCIES:
+  - LBXAlertAction
+  - ZXingObjC (~> 3.1.0)
+
+SPEC CHECKSUMS:
+  LBXAlertAction: e904f511f0e44fde323e056691d7a8a99d71faba
+  ZXingObjC: bf15b3814f7a105b6d99f47da2333c93a063650a
+
+PODFILE CHECKSUM: e8e92260c71b2002076f153e83138235fa4175a1
+
+COCOAPODS: 1.0.1

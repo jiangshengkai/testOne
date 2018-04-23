@@ -1,0 +1,7 @@
+platform:ios,'7.0'
+target "SKZxing" do
+pod 'ZXingObjC', '~> 3.1.0’
+pod 'LBXAlertAction'
+end
+
+
